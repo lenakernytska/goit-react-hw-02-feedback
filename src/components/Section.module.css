@@ -1,0 +1,12 @@
+.section {
+  text-align: center;
+  border: 1px solid grey;
+  width: 500px;
+  margin: 30px auto;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  color: grey;
+}
